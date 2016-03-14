@@ -1,0 +1,2 @@
+# Tugas
+Kecerdasan Buatan(AI)
